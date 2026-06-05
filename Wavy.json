@@ -9,31 +9,193 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
-        ],
-        "HEADER_SECONDARY": [
-            "#d6d6d6"
-        ],
-        "TEXT_NORMAL": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
-            "#4a4a4a"
-        ],
-        "TEXT_DANGER": [
-            "#747474"
-        ],
-        "TEXT_LINK": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_NORMAL": [
             "#888888"
         ],
+        "HEADER_SECONDARY": [
+            "#777777"
+        ],
+        "TEXT_NORMAL": [
+            "#888888"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#ffffff"
+        ],
+        "TEXT_LINK": [
+            "#888888"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
         "INTERACTIVE_HOVER": [
-            "#DCDDDE"
+            "#e6e6e6"
         ],
         "INTERACTIVE_ACTIVE": [
+            "#888888"
+        ],
+        "INTERACTIVE_MUTED": [
             "#ffffff"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#111111"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#111111"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#222222"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#000000"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_TEXT_AREA_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":[
+            "#ffffff"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#000000",
+        "PRIMARY_100": "#888888",
+        "PRIMARY_200": "#777777",
+        "PRIMARY_230": "#888888",
+        "PRIMARY_300": "#000000",
+        "PRIMARY_360": "#000000",
+        "PRIMARY_400": "#000000",
+        "PRIMARY_500": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PRIMARY_900": "#000000",
+        "YELLOW_300": "#888888",
+        "BRAND_260": "#222222",
+        "BRAND_360": "#333333",
+        "BRAND_500": "#000000",
+        "BRAND_560": "#000000",
+        "GREEN_360": "#000000",
+        "RED_400": "#000000",
+        "ORANGE_345": "#000000",
+        "RED_560": "#000000",
+        "GREEN_345": "#000000",
+        "BLUE_345": "#000000",
+        "WHITE_500": "#888888",
+        "PLUM_1" : "#888888",
+        "PLUM_3": "#ffffff",
+        "PLUM_6": "#ffffff",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#000000",
+        "PLUM_11": "#000000",
+        "PLUM_17": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/41_07.png",
+        "alpha": 0.42
+    },
+    "fonts":{
+        "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+    },
+    "plus":{
+        "version":"0",
+        "mentionLineColor": "#8888884a",
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+}
         ],
         "INTERACTIVE_MUTED": [
             "#383838"
