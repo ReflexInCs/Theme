@@ -1,0 +1,16 @@
+{
+    "name": "Wavy Background Only",
+    "description": "Just the background.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "background": {
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/41_07.png",
+        "alpha": 0.42
+    },
+    "spec": 2
+}
